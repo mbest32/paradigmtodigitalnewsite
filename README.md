@@ -1,0 +1,2 @@
+# paradigmtodigitalnewsite
+GitHub Pages
